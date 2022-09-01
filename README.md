@@ -19,7 +19,5 @@
 ## Credits
 -   Starter code was provided by: https://github.com/coding-boot-camp/friendly-parakeet
 
-## Features
 
--If the cursor is hovered over the main topics in header, when selected, the page will scroll down to the topic to show more information
 

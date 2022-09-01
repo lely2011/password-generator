@@ -6,7 +6,7 @@
 - Password limit is between 8 - 128 characters long
 - Options provided to user to choose from: numbers, upper case letters, lower case letters, and a special character
 - One requirement element is the user have to select at least one criteria for the password
-- once the character limitation and types of characters needed, then the generator will pull random set of characters for a password
+- Once the character limitation and types of characters needed has been selected, then the generator will pull random set of characters for a password
 
 ## Installation
 
